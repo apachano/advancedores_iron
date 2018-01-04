@@ -15,3 +15,5 @@ ore.spawn = {
 
 ore.tools = {}
 ore.extended = {}
+
+advancedores_core.add_ore(ore)
